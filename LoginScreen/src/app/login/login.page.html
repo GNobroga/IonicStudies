@@ -1,0 +1,28 @@
+<ion-content class="ion-color-login">
+  <div class="container" slot="fixed">
+    <form class="form-login">
+      <ion-img src="assets/icon/woman.png"/>
+      <ion-input type="email" fill="outline" placeholder="Username">
+        <img slot="label" src="assets/icon/mini-user.png" width="18" height="18" alt style="filter: invert(1)">
+      </ion-input>
+      <ion-input type="password" fill="outline" placeholder="Password">
+        <img slot="label" src="assets/icon/lock.png" width="18" height="18" alt style="filter: invert(1)">
+      </ion-input>
+      <ion-button [expand]="true" size="large" class="ion-text-capitalize">Login</ion-button>
+     <ion-grid>
+        <ion-row>
+          <ion-col class="col">
+            <ion-checkbox></ion-checkbox>
+            <ion-label>Lembrar-me</ion-label>
+          </ion-col>
+          <ion-col class="col ion-text-center">
+            <ion-label>Esqueceu a senha?</ion-label>
+          </ion-col>
+        </ion-row>
+     </ion-grid>
+    </form>
+  </div>
+</ion-content>
+
+
+

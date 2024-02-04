@@ -1,0 +1,7 @@
+{
+  "name": "TelaLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

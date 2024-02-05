@@ -26,5 +26,9 @@ Ionic oferece algumas classes utilitárias
 
 Ionic expoem algumas variáveis para customizar os componentes nativos dele
 
+## Icons
+
+Agora para utilizar os icons do Ionic é necessário utilizar o addIcons e importar os icons necessários.
+
 
 [Other features](/Markdowns/Inline-Components.md)

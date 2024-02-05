@@ -26,3 +26,5 @@ Ionic oferece algumas classes utilitárias
 
 Ionic expoem algumas variáveis para customizar os componentes nativos dele
 
+
+[Other features](/Markdowns/Inline-Components.md)
